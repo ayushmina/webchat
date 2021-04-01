@@ -4,9 +4,10 @@
   "description": "This is a node server for our iChat application",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": " node index.js
   },
-  "author": "Harry",
+  "author": "aayush",
   "license": "ISC",
   "dependencies": {
     "socket.io": "^2.3.0"
